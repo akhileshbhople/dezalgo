@@ -1,4 +1,5 @@
 os: linux-ppc64le
+sudo: false
 language: node_js
 before_script: npm install -g npm@latest
 node_js:
